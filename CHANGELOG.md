@@ -1,5 +1,15 @@
 # Changelog
 
+## [9.9.3](https://github.com/npm/cli/compare/v9.9.2...v9.9.3) (2023-12-01)
+
+### Bug Fixes
+
+* [`8d9d735`](https://github.com/npm/cli/commit/8d9d7351f5f9cfd7028a9f47cde520ca393218dd) [#7050](https://github.com/npm/cli/pull/7050) unpublish: bubble up all errors parsing local package.json (#7049) (@wraithgar)
+* [`e0e75e5`](https://github.com/npm/cli/commit/e0e75e5c153581b31a8a473e8b5823064716cfe0) [#7050](https://github.com/npm/cli/pull/7050) unpublish bugfixes (#7039) (@wraithgar)
+* [`4d59ce1`](https://github.com/npm/cli/commit/4d59ce1826efaaa4d23f807a3c303c78d28d4195) [#7047](https://github.com/npm/cli/pull/7047) reverse direction of SPDX SBOM dep rels (#7047) (@bdehamer, @antonbauhofer)
+* [`878f22b`](https://github.com/npm/cli/commit/878f22b5323554540ab48271b6ddd5502de97845) [#7008](https://github.com/npm/cli/pull/7008) properly catch missing url opener error (@wraithgar)
+* [`91a8eca`](https://github.com/npm/cli/commit/91a8eca99457092389ee22ff7491b6886cf30654) [#7010](https://github.com/npm/cli/pull/7010) properly catch missing url opener error on interactive prompt (@wraithgar)
+
 ## [9.9.2](https://github.com/npm/cli/compare/v9.9.1...v9.9.2) (2023-11-14)
 
 ### Bug Fixes
