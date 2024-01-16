@@ -1,5 +1,11 @@
 # Changelog
 
+## [10.3.1](https://github.com/npm/cli/compare/v10.3.0...v10.3.1) (2024-01-16)
+
+### Dependencies
+
+* [`f696b51`](https://github.com/npm/cli/commit/f696b517a39bea1be0f7116983a5b4c8ed6f01b7) [#7132](https://github.com/npm/cli/pull/7132) `@sigstore/tuf@2.3.0` (#7132) (@bdehamer)
+
 ## [10.3.0](https://github.com/npm/cli/compare/v10.2.5...v10.3.0) (2024-01-10)
 
 ### Features
